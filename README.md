@@ -1,2 +1,2 @@
 # TRANSLATIONS
-TRANSLATIONS
+TRANSLATIONS ( Portuguese - English - Spanish )
